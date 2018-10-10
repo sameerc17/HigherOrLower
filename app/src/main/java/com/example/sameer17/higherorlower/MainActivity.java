@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity
         int guessno=Integer.parseInt(guessEditText.getText().toString());
         if(guessno>randno)
         {
-            Toast.makeText(MainActivity.this,"Your guess is higher! Try again!",Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this,"Your guess is higher!!!! Try again!",Toast.LENGTH_SHORT).show();
         }
         else
         if(guessno<randno)
