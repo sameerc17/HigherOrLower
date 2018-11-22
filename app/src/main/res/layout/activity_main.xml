@@ -13,7 +13,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="36dp"
-        android:text="I am thinking of a number between one and thirty"
+        android:text="I am thinking of a number between one and fifty"
+        android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 
     <TextView
